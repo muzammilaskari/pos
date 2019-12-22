@@ -1,0 +1,51 @@
+body{ margin:0px;}
+
+.invoice-title h2, .invoice-title h3 {
+    display: inline-block;
+}
+
+.table > tbody > tr > .no-line {
+    border-top: none;
+}
+
+.table > thead > tr > .no-line {
+    border-bottom: none;
+}
+
+.table > tbody > tr > .thick-line {
+    border-top: 2px solid;
+}
+.invoice-title{ margin-top:20px;}
+
+
+
+address p {
+    margin: 0;
+}
+
+address strong {
+    float: left;
+    min-height: 24px;
+    min-width: 100px;
+}
+
+address {
+    width: 100%;
+}
+.container {
+    width: 850px !important;
+}
+
+.signature_colum{ border:solid 1px #000; margin:0 0 20px 0px;}
+
+.total{ font-size:20px;}
+
+
+
+
+
+
+
+
+
+
